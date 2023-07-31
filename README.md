@@ -23,5 +23,5 @@ To set up and run the project on your local machine, follow these steps:
 ## Usage
 
 1. Start your Apache web server and MySQL database.
-2. Open your web browser and enter the following URL: `http://localhost/ERP/myShop/index.php` (Replace "project-folder" with the actual folder name where you placed the project files).
+2. Open your web browser and enter the following URL: `http://localhost/ERP/myShop/index.php` (Replace "ERP/myshop" with the actual folder name where you placed the project files).
 3. The home page of the web application should now load, and you can navigate through the various features of the application.
